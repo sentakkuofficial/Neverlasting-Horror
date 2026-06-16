@@ -6,7 +6,7 @@ Built as a **single-file HTML game** with no dependencies, no build tools, and s
 
 ## 🎮 Play Online
 
-**GitHub Pages:** `https://yourusername.github.io/your-repository-name/`
+**GitHub Pages:** https://sentakkuofficial.github.io/Neverlasting-Horror/
 
 Replace the URL above after enabling GitHub Pages.
 
@@ -133,4 +133,4 @@ The **Neverlasting** universe, characters, and story concepts belong to the repo
 
 ---
 
-### Created by Nas
+### Created by Nasif Sufian
